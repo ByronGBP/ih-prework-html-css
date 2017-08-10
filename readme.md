@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![](http://imgur.com/a/0ynJo)
+![](http://i.imgur.com/dDRACVM.png)
 
 ## Introduction
 
