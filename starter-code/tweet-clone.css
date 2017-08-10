@@ -30,9 +30,6 @@ body {
 
 .HeaderTweet {
 
-  border-color: black;
-  border-width: 0.5px;
-  border-style: solid;
   height: 44%;
 
 }
@@ -40,9 +37,6 @@ body {
 /* ---AUTHOR--- */
 .Header-Author {
 
-  border-style: solid;
-  border-color: black;
-  border-width: 0.8px;
   width: 59%;
   height: 98%;
   float: left;
@@ -98,9 +92,6 @@ body {
 
 .Header-Follow {
 
-  border-style: solid;
-  border-color: black;
-  border-width: 0.8px;
   height: 98%;
   width: 39%;
   float: left;
@@ -110,12 +101,12 @@ body {
 
 .FollowButton {
 
-    color: green;
-    margin-left: 10%;
+    margin-left: 19.5%;
     margin-top: 2%;
-    height: 70px;
-    width: 165px;
+    height: 60px;
+    width: 155px;
     background-color: transparent;
+
     text-decoration: none;
     text-align: center;
     font-size: 20px;
@@ -127,17 +118,11 @@ body {
 
 }
 
-
-
-
-
 /* --------BODY TWEET-------- */
 
 .BodyTweet {
 
-  border-color: black;
-  border-width: 0.1px;
-  border-style:  solid;
+  margin-top: 4%;
   height: 54%;
 
 }
@@ -146,9 +131,6 @@ body {
 
 .Body-Message {
 
-  border-style: solid;
-  border-color: black;
-  border-width: 0.1px;
   height: 31%;
   width: 99%;
   float: left;
@@ -162,9 +144,6 @@ body {
 
 .Body-Date{
 
-  border-style: solid;
-  border-color: black;
-  border-width: 0.1px;
   height: 31%;
   width: 99%;
   float: left;
@@ -182,9 +161,6 @@ span#BodyDate {
 
 .Body-Stats {
 
-  border-style: solid;
-  border-color: black;
-  border-width: 0.1px;
   margin-top: 1%;
   height: 31%;
   width: 99%;
