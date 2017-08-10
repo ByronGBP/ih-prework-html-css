@@ -1,0 +1,47 @@
+
+body {
+
+  height: 500px;
+
+
+}
+
+.MainTweet {
+
+  margin: 15%;
+  border-width: 2px;
+  border-color: rgb(217, 226, 233);
+  border-radius: 5px;
+  border-style:  solid;
+  height: 33%;
+
+}
+
+.ContainerTweet {
+
+  height: 80%;
+  padding: 5%;
+
+
+}
+
+
+.HeaderTweet {
+
+  border-color: black;
+  border-width: 0.1px;
+  border-style: solid;
+  height: 39%;
+
+}
+
+
+.BodyTweet {
+
+  border-color: black;
+  border-width: 0.1px;
+  border-style:  solid;
+  height: 59%;
+
+
+}
