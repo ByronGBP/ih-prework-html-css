@@ -5,7 +5,6 @@ body {
 
 }
 
-
 .MainTweet {
 
   margin: 15%;
@@ -25,34 +24,23 @@ body {
 
 }
 
+/* HEADER TWEET */
 
 .HeaderTweet {
 
   border-color: black;
-  border-width: 0.1px;
+  border-width: 0.5px;
   border-style: solid;
-  height: 39%;
-
-
-}
-
-
-.BodyTweet {
-
-  border-color: black;
-  border-width: 0.1px;
-  border-style:  solid;
-  height: 59%;
+  height: 44%;
 
 }
-
-
 .Header-Author {
 
   border-style: solid;
   border-color: black;
-  width: 58%;
-  height: 95%;
+  border-width: 0.8px;
+  width: 59%;
+  height: 98%;
   float: left;
 
 
@@ -62,8 +50,9 @@ body {
 
   border-style: solid;
   border-color: black;
-  height: 95%;
-  width: 38%;
+  border-width: 0.8px;
+  height: 98%;
+  width: 39%;
   float: left;
   overflow: auto;
 
@@ -81,5 +70,53 @@ body {
     border-color: black;
     position: absolute;
     */
+
+}
+
+
+/* BODY TWEET */
+
+.BodyTweet {
+
+  border-color: black;
+  border-width: 0.1px;
+  border-style:  solid;
+  height: 54%;
+
+}
+
+.Body-Message {
+
+  border-style: solid;
+  border-color: black;
+  border-width: 0.1px;
+  height: 31%;
+  width: 99%;
+  float: left;
+
+
+}
+
+.Body-Date{
+
+  border-style: solid;
+  border-color: black;
+  border-width: 0.1px;
+  height: 31%;
+  width: 99%;
+  float: left;
+  overflow: auto;
+
+}
+
+.Body-Stats{
+
+  border-style: solid;
+  border-color: black;
+  border-width: 0.1px;
+  height: 31%;
+  width: 99%;
+  float: left;
+  overflow: auto;
 
 }
