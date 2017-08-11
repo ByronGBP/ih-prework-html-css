@@ -1,6 +1,6 @@
 # HTML & CSS | Tweet clone
 
-## Screenshot
+## Final screenshot
 
 ![](http://i.imgur.com/dDRACVM.png)
 
